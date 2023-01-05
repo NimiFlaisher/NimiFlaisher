@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=90" />
+<!-- <p align="center"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20Everyone!&fontSize=90" align="center"/>
   <h2 align="center">Let's get social!</h2>
   <p align="center">
 <a href="https://www.instagram.com/nimi.flaisher/">
