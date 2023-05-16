@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/nimiflaisher/">
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-64.png" srcset="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-128.png 2x"> -->
 <p align="center">
-<img src="https://github.com/RavidEliyahu/RavidEliyahu/raw/main/resources/img/grid-snake.svg">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 
   
 ## 🌐 Let's get social!:
